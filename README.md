@@ -25,7 +25,7 @@ Complete the login process.
 #### 3. Generate token.pickle
 After logging in, token.pickle will be generated in the same directory.
 
-### 4. Update Google Drive Folder ID
+#### 4. Update Google Drive Folder ID
 Open `lambda_function.py` and replace the value of `SHARED_DRIVE_ID` with the folder ID of your Google Drive where you want to upload files.
   
 -------
